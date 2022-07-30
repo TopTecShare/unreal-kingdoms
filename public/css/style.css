@@ -325,10 +325,6 @@ header .intro-text {
   margin-bottom: 3rem;
 }
 #plots .images {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  flex-wrap: wrap;
 }
 #plots .images .col-md-2 {
   width: 19%;
@@ -656,4 +652,31 @@ label {
   #about .card {
     height: 400px !important;
   }
+}
+
+.slick-slide {
+  height: auto !important;
+}
+.slick-dots {
+  bottom: -50px !important;
+}
+.mint-btn {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 5%;
+  margin-bottom: 8px;
+}
+.NFT-type {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.mint-now {
+}
+.mint-btn1 {
+  margin-top: -40%;
+}
+.mint-btn img {
+  height: 5% !important;
 }
