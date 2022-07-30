@@ -22,7 +22,7 @@ export const Features = () => {
     slidesToShow: 3,
     slidesToScroll: 1,
     arrows: false,
-    autoplay: false,
+    autoplay: true,
     autoplaySpeed: 5000,
     // nextArrow: <SampleNextArrow />,
     // prevArrow: <SamplePrevArrow />,
