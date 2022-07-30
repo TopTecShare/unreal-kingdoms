@@ -20,6 +20,7 @@ export const Services = (props) => {
               className="register"
               href="https://unrealkingdoms.com/PlayerLogin/register.php"
               target="_blank"
+              rel="noreferrer"
             >
               Register now
             </a>

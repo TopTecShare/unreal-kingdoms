@@ -23,14 +23,14 @@ export const Features = () => {
             <a
               className="register"
               href="https://unrealkingdoms.com/PlayerLogin/register.php"
-              target="_blank"
+              target="_blank" rel="noreferrer"
             >
               Register now
             </a>
             <a href="#plots">See Plot options</a>
             <a
               href="https://nicepage.com/k/children-website-templates"
-              target="_blank"
+              target="_blank" rel="noreferrer"
             >
               Buy Land
             </a>
@@ -47,7 +47,7 @@ export const Features = () => {
               <div className="col-md-2">
                 <a
                   href="https://gateway.ipfscdn.io/ipfs/QmZ3UzARChNBBVdqcbibQ63nvtePkRfnyieb89sXTRMLxE/marketplace.html?contract=0xaEE47a3c4c985f77fBB0E4b07D033Ab16023F060&amp;chainId=1&amp;listingId=0"
-                  target="_blank"
+                  target="_blank" rel="noreferrer"
                 >
                   <img src={Img1} />
                 </a>
@@ -55,7 +55,7 @@ export const Features = () => {
               <div className="col-md-2">
                 <a
                   href="https://gateway.ipfscdn.io/ipfs/QmZ3UzARChNBBVdqcbibQ63nvtePkRfnyieb89sXTRMLxE/marketplace.html?contract=0xaEE47a3c4c985f77fBB0E4b07D033Ab16023F060&amp;chainId=1&amp;listingId=1"
-                  target="_blank"
+                  target="_blank" rel="noreferrer"
                 >
                   <img src={Img2} />
                 </a>
@@ -63,7 +63,7 @@ export const Features = () => {
               <div className="col-md-2">
                 <a
                   href="https://gateway.ipfscdn.io/ipfs/QmZ3UzARChNBBVdqcbibQ63nvtePkRfnyieb89sXTRMLxE/marketplace.html?contract=0xaEE47a3c4c985f77fBB0E4b07D033Ab16023F060&amp;chainId=1&amp;listingId=2"
-                  target="_blank"
+                  target="_blank" rel="noreferrer"
                 >
                   <img src={Img3} />
                 </a>
@@ -71,7 +71,7 @@ export const Features = () => {
               <div className="col-md-2">
                 <a
                   href="https://gateway.ipfscdn.io/ipfs/QmZ3UzARChNBBVdqcbibQ63nvtePkRfnyieb89sXTRMLxE/marketplace.html?contract=0xaEE47a3c4c985f77fBB0E4b07D033Ab16023F060&amp;chainId=1&amp;listingId=3"
-                  target="_blank"
+                  target="_blank" rel="noreferrer"
                 >
                   <img src={Img4} />
                 </a>
@@ -79,7 +79,7 @@ export const Features = () => {
               <div className="col-md-2">
                 <a
                   href="https://gateway.ipfscdn.io/ipfs/QmZ3UzARChNBBVdqcbibQ63nvtePkRfnyieb89sXTRMLxE/marketplace.html?contract=0xaEE47a3c4c985f77fBB0E4b07D033Ab16023F060&amp;chainId=1&amp;listingId=4"
-                  target="_blank"
+                  target="_blank" rel="noreferrer"
                 >
                   <img src={Img5} />
                 </a>
