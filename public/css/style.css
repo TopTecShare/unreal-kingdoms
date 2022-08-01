@@ -418,12 +418,11 @@ header .intro-text {
 }
 #services .youtube {
   width: 100%;
-  min-height: 500px;
 }
-#services .youtube iframe {
+/* #services .youtube iframe {
   width: 100%;
   min-height: 500px;
-}
+} */
 #services i.fa {
   font-size: 42px;
   width: 120px;
