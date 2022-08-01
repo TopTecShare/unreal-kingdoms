@@ -37,6 +37,15 @@ export const Navigation = (props) => {
                 About
               </a>
             </li>
+            <li>
+              <a
+                href="./CAYCWhitePaper.pdf"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                WhitePaper
+              </a>
+            </li>
 
             <li>
               <a href="#footer" className="page-scroll">
