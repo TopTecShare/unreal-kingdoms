@@ -8,8 +8,6 @@ export const Services = (props) => {
         <div className="row">
           <div className="youtube">
             <iframe
-              width="1904"
-              height="760"
               src="https://www.youtube.com/embed/0n9IsC8jwjI"
               title="UnrealKingdom Cinematic Forest Castle"
               frameborder="0"

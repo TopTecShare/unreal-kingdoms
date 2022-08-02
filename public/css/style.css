@@ -418,11 +418,12 @@ header .intro-text {
 }
 #services .youtube {
   width: 100%;
+  min-height: 500px;
 }
-/* #services .youtube iframe {
+#services .youtube iframe {
   width: 100%;
   min-height: 500px;
-} */
+}
 #services i.fa {
   font-size: 42px;
   width: 120px;
@@ -680,4 +681,10 @@ label {
 }
 .mint-btn img {
   height: 5% !important;
+}
+
+.footer-content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
 }
